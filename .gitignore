@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.log
+.autopore/
+.env
+*API_KEY*
+
+model_results/
+pore_network_model/single_run_qs_pnm/
+pore_network_model/single_run_dyn_pnm/
+pore_network_model/uq_qs_pnm/
+pore_network_model/uq_dyn_pnm/
+
+pore_network_model/input_pnm/*
+!pore_network_model/input_pnm/dyn_param.txt
+!pore_network_model/input_pnm/dyn_SimControl.txt
+!pore_network_model/input_pnm/qs_param.txt

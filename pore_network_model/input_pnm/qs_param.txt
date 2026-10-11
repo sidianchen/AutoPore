@@ -1,0 +1,8 @@
+0
+5e4
+1e2
+1
+// minimum pressure
+// maximum pressure
+// pressure step
+// compute permeability

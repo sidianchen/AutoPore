@@ -1,0 +1,31 @@
+name: pore-network-viz
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - ipykernel
+  - spyder
+  - spyder-kernels
+  - pyvista
+  - pyvistaqt
+  - vtk=9.3.1
+  - imageio
+  - imageio-ffmpeg
+  - scikit-image
+  - networkx
+  - psutil
+  - tqdm
+  - mesalib
+  - pip:
+      - openpnm
+      - porespy
+      - pyevtk
+      - openai

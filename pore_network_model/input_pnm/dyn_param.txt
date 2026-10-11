@@ -1,0 +1,20 @@
+1.000000e-03
+1.000000e-01
+1.000000e+00
+1.000000e+02
+1.000000e-8
+2.000000e+01
+1e-8
+1e5
+1
+1
+// gas viscosity
+// liquid viscosity
+// flow rate
+// capillary number
+// tolerance to scale pressure update
+// output time scaler with maxT
+// output time step size
+// maxPc
+// outlet condition (0 - zero gas flux, 1 zero gradient)
+// shrink throat sizes if they are larger than their connecting bodies

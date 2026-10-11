@@ -1,0 +1,14 @@
+1e-6
+1e-5
+1e20
+1.5
+1e-6
+20
+1e-4
+// dt
+// DT_MAX
+// totTime
+// totTime_vs_BT_time
+// L_eps
+// Max_ITER
+// tol_oci
