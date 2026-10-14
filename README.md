@@ -196,6 +196,6 @@ Reset everything
 
 The AutoPore code was developed by [Chen & Tchelepi (preprint)](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6229/). If you use this code (or any modified version), please cite the following publication:
 
-S. Chen*, H. A. Tchelepi, An AI-assisted framework for image-based multiphase flow simulations. Preprint.
+Chen and Tchelepi. An AI-assisted framework for image-based multiphase flow simulations. Preprint.
 
 For questions, please contact the development team at sidianc@stanford.edu or sidianchen11@gmail.com.
